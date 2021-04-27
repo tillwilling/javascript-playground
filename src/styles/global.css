@@ -17,3 +17,11 @@ body {
 .blue {
   background: skyblue;
 }
+
+.radius {
+  border-radius: 50%;
+}
+
+.rotate {
+  transform: rotate(45deg);
+}
